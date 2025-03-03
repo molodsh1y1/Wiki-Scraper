@@ -39,4 +39,4 @@ jobs:
       - name: Run linting
         run: |
           poetry run ruff check src
-          mypy src
+          poetry run mypy src
