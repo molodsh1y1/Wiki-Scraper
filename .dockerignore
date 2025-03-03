@@ -1,0 +1,34 @@
+# Virtual environments
+venv
+.venv
+
+# Environment variables
+.env
+
+# Git-related files
+.git
+.gitignore
+.github
+
+# Cache files
+.pytest_cache
+.mypy_cache
+.ruff_cache
+__pycache__
+
+# VS Code settings
+.vscode
+
+# Compiled Python files
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pywz
+
+# SQL files
+*.sql
+
+# JetBrains IDE files
+.idea
